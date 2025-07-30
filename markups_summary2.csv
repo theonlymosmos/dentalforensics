@@ -1,0 +1,52 @@
+Node Name,Markup Type,Label,X,Y,Z,Measurement Name,Value,Unit
+MF,Fiducial,MF-1,-790.2544269743514,-893.2743291369011,0.0,,,
+IAC canal1,Line,IAC canal1-1,-394.0529821690642,-564.157058890822,0.0,,,
+IAC canal1,Line,IAC canal1-2,-430.78560414789297,-699.3394729205442,0.0,,,
+IAC canal1,Line,,,,,length,140.0841553507846,mm
+IAC canal2,Curve,OC_1-1,-362.8797601638296,-606.4038055090377,0.0,,,
+IAC canal2,Curve,OC_1-1,-394.59601534779847,-690.4887611130484,0.0,,,
+IAC canal2,Curve,OC_1-1,-416.86648139299155,-749.1180305694281,0.0,,,
+IAC canal2,Curve,OC_1-2,-475.1380630957137,-824.611577714655,0.0,,,
+IAC canal2,Curve,OC_1-3,-548.3482695850194,-864.8075643522836,0.0,,,
+IAC canal2,Curve,,,,,length,332.5728080417108,mm
+IAC canal2,Curve,,,,,curvature mean,0.0,
+IAC canal2,Curve,,,,,curvature max,0.0,
+IAC canal2,Curve,,,,,torsion mean,0.0,
+IAC canal2,Curve,,,,,torsion max,0.0,
+Angle of Mandible,Angle,A_3-1,-187.49167416974169,-175.17095055350546,0.0,,,
+Angle of Mandible,Angle,A_3-2,-282.361105904059,-761.9559542435425,0.0,,,
+Angle of Mandible,Angle,A_3-3,-705.7598660516605,-983.3179616236162,0.0,,,
+Angle of Mandible,Angle,,,,,angle,126.78545862262892,deg
+Anterior of Ramus,Curve,anterior of ramus-1,-516.8687670085433,-414.0725695718058,0.0,,,
+Anterior of Ramus,Curve,anterior of ramus-1,-484.0476536513606,-476.8188156958315,0.0,,,
+Anterior of Ramus,Curve,anterior of ramus-2,-518.221010973216,-618.5986299540865,0.0,,,
+Anterior of Ramus,Curve,,,,,length,221.35890156751154,mm
+Anterior of Ramus,Curve,,,,,curvature mean,0.0,
+Anterior of Ramus,Curve,,,,,curvature max,0.0,
+Anterior of Ramus,Curve,,,,,torsion mean,0.0,
+Anterior of Ramus,Curve,,,,,torsion max,0.0,
+Apex of PremolarMolar,Fiducial,Apex of Premolar/Molar,-779.6678492879197,-867.7212686881278,0.0,,,
+IAC Inf,Fiducial,IAC INF,-371.6818275125387,-567.28234812193,0.0,,,
+IAC Sup,Fiducial,IAC SUP,-372.04813155642535,-558.3689189606882,0.0,,,
+MF Int,Fiducial,MF-int,-790.4794689637591,-897.7342749468145,0.0,,,
+MF Sup,Fiducial,MF-sup,-790.1993023691521,-889.5394020545567,0.0,,,
+Mid-symphyseal,Line,AMB-1,-1028.788179946917,18.698160876862687,0.0,,,
+Mid-symphyseal,Line,AMB-2,-1032.3804192354623,-1123.39226229731,0.0,,,
+Mid-symphyseal,Line,,,,,length,1142.096072530357,mm
+IAC ,Fiducial,IAC ,-371.90676892201947,-562.75116062727,0.0,,,
+Alveolar Crest1,Angle,A-1,-650.6337644105708,-703.1033544000439,0.0,,,
+Alveolar Crest1,Angle,Alveolar Crest1,-676.9211061104038,-706.3892721125231,0.0,,,
+Alveolar Crest1,Angle,A-3,-672.8137089698049,-680.64958336477,0.0,,,
+Alveolar Crest1,Angle,,,,,angle,73.80848091128188,deg
+Alveolar Crest2,Angle,A-1,-838.1362905360836,-728.2572735502525,0.0,,,
+Alveolar Crest2,Angle,Alveolar Crest2,-841.8151163825029,-728.7956383082651,0.0,,,
+Alveolar Crest2,Angle,A-3,-840.2000221084652,-723.2325358088018,0.0,,,
+Alveolar Crest2,Angle,,,,,angle,65.48514341254686,deg
+Alveolar Crest3,Angle,A-1,-770.2959344400186,-718.4376370582798,0.0,,,
+Alveolar Crest3,Angle,Alveolar Crest3,-784.5349111940948,-718.9852900103597,0.0,,,
+Alveolar Crest3,Angle,A-3,-781.5228199576557,-695.1623865948861,0.0,,,
+Alveolar Crest3,Angle,,,,,angle,80.59134483685116,deg
+LBM,Line,LBM-1,6.599172157783556,-1025.6187762486722,0.0,,,
+LBM,Line,LBM-2,-2049.007348398579,-1029.4586389894375,0.0,,,
+LBM,Line,,,,,length,2055.6101069754695,mm
+LBM 90,Fiducial,LBM 90-1,-793.4638085735642,-1025.9710808003272,0.0,,,
